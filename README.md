@@ -40,3 +40,10 @@ This project focuses on predicting loan default outcomes using data from three d
 
 ---
 
+## Possible Future Work and Improvements:
+- Domain Knowledge for better preprocessing steps
+- Additional statistical values for numerical columns - variance, std dev, running average, quantiles, IQR
+- Datetime based features - Year, Month, Quarter, Day, Day of Week, isWeekend
+- Better resampling for bias reduction
+
+---
